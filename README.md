@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prettyvmishra/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/prettyvmishra/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/prettyvmishra/leetcode/tree/master/0169-majority-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prettyvmishra/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prettyvmishra/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prettyvmishra/leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/prettyvmishra/leetcode/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prettyvmishra/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prettyvmishra/leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/prettyvmishra/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
