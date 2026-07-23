@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prettyvmishra/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prettyvmishra/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prettyvmishra/leetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/prettyvmishra/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/prettyvmishra/leetcode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prettyvmishra/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/prettyvmishra/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/prettyvmishra/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/prettyvmishra/leetcode/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/prettyvmishra/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/prettyvmishra/leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/prettyvmishra/leetcode/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
