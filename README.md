@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prettyvmishra/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prettyvmishra/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prettyvmishra/leetcode/tree/master/0268-missing-number) |
+| [0812-largest-triangle-area](https://github.com/prettyvmishra/leetcode/tree/master/0812-largest-triangle-area) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prettyvmishra/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prettyvmishra/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/prettyvmishra/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/prettyvmishra/leetcode/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/prettyvmishra/leetcode/tree/master/0812-largest-triangle-area) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prettyvmishra/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prettyvmishra/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/prettyvmishra/leetcode/tree/master/0202-happy-number) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/prettyvmishra/leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
