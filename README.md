@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/prettyvmishra/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/prettyvmishra/leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/prettyvmishra/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prettyvmishra/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prettyvmishra/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/prettyvmishra/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/prettyvmishra/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/prettyvmishra/leetcode/tree/master/0415-add-strings) |
@@ -109,8 +111,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prettyvmishra/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prettyvmishra/leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prettyvmishra/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prettyvmishra/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
