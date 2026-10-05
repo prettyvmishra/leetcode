@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prettyvmishra/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prettyvmishra/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prettyvmishra/leetcode/tree/master/0035-search-insert-position) |
+| [0064-minimum-path-sum](https://github.com/prettyvmishra/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/prettyvmishra/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/prettyvmishra/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/prettyvmishra/leetcode/tree/master/0136-single-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/prettyvmishra/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0064-minimum-path-sum](https://github.com/prettyvmishra/leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/prettyvmishra/leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/prettyvmishra/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/prettyvmishra/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/prettyvmishra/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/prettyvmishra/leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
