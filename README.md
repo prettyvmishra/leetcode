@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prettyvmishra/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/prettyvmishra/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/prettyvmishra/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/prettyvmishra/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/prettyvmishra/leetcode/tree/master/0217-contains-duplicate) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/prettyvmishra/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/prettyvmishra/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/prettyvmishra/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prettyvmishra/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/prettyvmishra/leetcode/tree/master/0202-happy-number) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/prettyvmishra/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/prettyvmishra/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prettyvmishra/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/prettyvmishra/leetcode/tree/master/0058-length-of-last-word) |
